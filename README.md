@@ -1,3 +1,3 @@
 # reverse-engineering
 
-##for lab and pj##
+for lab and pj
